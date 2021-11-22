@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19162" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19144"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="gTV-IL-0wX" customClass="ForWineCollectionViewCell" customModule="Wine" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="265" height="187"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="265" height="187"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="G2C-bc-wvf" customClass="View_ShadowAllSide" customModule="Wine" customModuleProvider="target">
+                        <rect key="frame" x="4" y="4" width="257" height="178"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ChardonnayWine" translatesAutoresizingMaskIntoConstraints="NO" id="X6d-wa-0lV">
+                                <rect key="frame" x="8" y="8" width="249" height="129"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="129" id="6hD-vc-fhS"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Chardonnay Wine" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="vlc-UV-ezq">
+                                <rect key="frame" x="8" y="145" width="249" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="200$" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gbh-eR-ZhD">
+                                <rect key="frame" x="206" y="14" width="42" height="21"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="21" id="akO-Ik-PrJ"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" weight="medium" pointSize="17"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="7Ph-gc-r0a" customClass="FloatRatingView" customModule="Wine" customModuleProvider="target">
+                                <rect key="frame" x="2" y="13" width="68" height="16"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <color key="tintColor" systemColor="systemYellowColor"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="16" id="4iV-nR-mhg"/>
+                                    <constraint firstAttribute="width" constant="68" id="bMm-te-rmZ"/>
+                                </constraints>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="minRating">
+                                        <integer key="value" value="1"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="maxRating">
+                                        <integer key="value" value="5"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="rating">
+                                        <real key="value" value="2"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="image" keyPath="emptyImage" value="star" catalog="system"/>
+                                    <userDefinedRuntimeAttribute type="image" keyPath="fullImage" value="star.fill" catalog="system"/>
+                                </userDefinedRuntimeAttributes>
+                            </view>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="170 Rating" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wlJ-ii-3Gj">
+                                <rect key="frame" x="2" y="29" width="59.5" height="15"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="15" id="BbN-3V-KHQ"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                                <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="X6d-wa-0lV" firstAttribute="leading" secondItem="G2C-bc-wvf" secondAttribute="leading" constant="8" id="1jV-tj-wAv"/>
+                            <constraint firstItem="7Ph-gc-r0a" firstAttribute="leading" secondItem="G2C-bc-wvf" secondAttribute="leading" constant="2" id="BQ5-6f-w1K"/>
+                            <constraint firstAttribute="bottom" secondItem="vlc-UV-ezq" secondAttribute="bottom" constant="12" id="Gid-lb-zuG"/>
+                            <constraint firstItem="X6d-wa-0lV" firstAttribute="top" secondItem="G2C-bc-wvf" secondAttribute="top" constant="8" id="Jen-GX-YJC"/>
+                            <constraint firstAttribute="trailing" secondItem="X6d-wa-0lV" secondAttribute="trailing" id="MQp-aN-Cme"/>
+                            <constraint firstItem="vlc-UV-ezq" firstAttribute="leading" secondItem="G2C-bc-wvf" secondAttribute="leading" constant="8" id="Oap-BE-ku7"/>
+                            <constraint firstItem="wlJ-ii-3Gj" firstAttribute="top" secondItem="7Ph-gc-r0a" secondAttribute="bottom" id="QJw-Km-9Sr"/>
+                            <constraint firstAttribute="trailing" secondItem="vlc-UV-ezq" secondAttribute="trailing" id="aFI-97-lMY"/>
+                            <constraint firstAttribute="trailing" secondItem="gbh-eR-ZhD" secondAttribute="trailing" constant="9" id="dZq-NT-aRT"/>
+                            <constraint firstItem="wlJ-ii-3Gj" firstAttribute="leading" secondItem="G2C-bc-wvf" secondAttribute="leading" constant="2" id="iE9-FA-KTj"/>
+                            <constraint firstItem="gbh-eR-ZhD" firstAttribute="top" secondItem="G2C-bc-wvf" secondAttribute="top" constant="14" id="oJa-ko-sff"/>
+                            <constraint firstItem="vlc-UV-ezq" firstAttribute="top" secondItem="X6d-wa-0lV" secondAttribute="bottom" constant="8" symbolic="YES" id="uIa-Oo-KSa"/>
+                            <constraint firstItem="7Ph-gc-r0a" firstAttribute="top" secondItem="G2C-bc-wvf" secondAttribute="top" constant="13" id="w5w-NQ-k4x"/>
+                        </constraints>
+                    </view>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <constraints>
+                <constraint firstItem="G2C-bc-wvf" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" constant="4" id="KU4-TJ-Qb6"/>
+                <constraint firstAttribute="trailing" secondItem="G2C-bc-wvf" secondAttribute="trailing" constant="4" id="h7G-K7-gq2"/>
+                <constraint firstAttribute="bottom" secondItem="G2C-bc-wvf" secondAttribute="bottom" constant="5" id="rUv-VG-jhg"/>
+                <constraint firstItem="G2C-bc-wvf" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" constant="4" id="yoy-HG-Iue"/>
+            </constraints>
+            <size key="customSize" width="265" height="187"/>
+            <connections>
+                <outlet property="image" destination="X6d-wa-0lV" id="oXb-MM-gKM"/>
+                <outlet property="lblName" destination="vlc-UV-ezq" id="FgN-RC-ueJ"/>
+                <outlet property="lblPrice" destination="gbh-eR-ZhD" id="tfY-wr-08F"/>
+                <outlet property="lblReview" destination="wlJ-ii-3Gj" id="ij6-X9-jft"/>
+                <outlet property="ratingView" destination="7Ph-gc-r0a" id="1ew-N5-Lkv"/>
+            </connections>
+            <point key="canvasLocation" x="177.536231884058" y="138.95089285714286"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="ChardonnayWine" width="183" height="275"/>
+        <image name="star" catalog="system" width="128" height="116"/>
+        <image name="star.fill" catalog="system" width="128" height="116"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+        <systemColor name="systemYellowColor">
+            <color red="1" green="0.80000000000000004" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+    </resources>
+</document>

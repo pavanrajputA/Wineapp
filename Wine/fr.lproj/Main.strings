@@ -1,0 +1,195 @@
+
+/* Class = "UIButton"; normalTitle = "SwaplNFC"; ObjectID = "1Fc-Au-WwI"; */
+"1Fc-Au-WwI.normalTitle" = "SwaplNFC";
+
+/* Class = "UIButton"; normalTitle = "On"; ObjectID = "1lT-Bq-Yz8"; */
+"1lT-Bq-Yz8.normalTitle" = "On";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "2G5-BP-VXI"; */
+"2G5-BP-VXI.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "Buy a tag"; ObjectID = "2Y9-5b-pFP"; */
+"2Y9-5b-pFP.normalTitle" = "Buy a tag";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "3Jg-bH-2lG"; */
+"3Jg-bH-2lG.placeholder" = "Name";
+
+/* Class = "UITextField"; placeholder = "Paste your link here"; ObjectID = "3vZ-HK-56I"; */
+"3vZ-HK-56I.placeholder" = "Paste your link here";
+
+/* Class = "UILabel"; text = "Contact successfully added to your contact list"; ObjectID = "4sR-cB-gDY"; */
+"4sR-cB-gDY.text" = "Contact successfully added to your contact list";
+
+/* Class = "UILabel"; text = "Create your profile"; ObjectID = "6J1-Tr-Jmw"; */
+"6J1-Tr-Jmw.text" = "Create your profile";
+
+/* Class = "UIButton"; normalTitle = "Personal"; ObjectID = "9sO-dc-4cG"; */
+"9sO-dc-4cG.normalTitle" = "Personal";
+
+/* Class = "UILabel"; text = "Forgot your password"; ObjectID = "D3c-cn-xfI"; */
+"D3c-cn-xfI.text" = "Forgot your password";
+
+/* Class = "UIButton"; normalTitle = "Business"; ObjectID = "DWj-ko-mJN"; */
+"DWj-ko-mJN.normalTitle" = "Business";
+
+/* Class = "UILabel"; text = "borntme.com/iam****"; ObjectID = "EDZ-gc-itE"; */
+"EDZ-gc-itE.text" = "borntme.com/iam****";
+
+/* Class = "UIButton"; normalTitle = "Direct Off"; ObjectID = "Ei2-Oo-tox"; */
+"Ei2-Oo-tox.normalTitle" = "Direct Off";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "GWT-tk-GuQ"; */
+"GWT-tk-GuQ.placeholder" = "Password";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "JvV-HO-thl"; */
+"JvV-HO-thl.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = "SwaplNFC"; ObjectID = "KNg-5Y-ivY"; */
+"KNg-5Y-ivY.normalTitle" = "SwaplNFC";
+
+/* Class = "UILabel"; text = "Add Informations"; ObjectID = "MJk-1d-bky"; */
+"MJk-1d-bky.text" = "Add Informations";
+
+/* Class = "UIButton"; normalTitle = "Edit Profile"; ObjectID = "N4C-B4-maK"; */
+"N4C-B4-maK.normalTitle" = "Edit Profile";
+
+/* Class = "UILabel"; text = " Welcome to  \nBorn2Evolve"; ObjectID = "Nm8-ul-CvN"; */
+"Nm8-ul-CvN.text" = " Welcome to  \nBorn2Evolve";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "OaP-YN-fij"; */
+"OaP-YN-fij.placeholder" = "Name";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "P6f-fi-M6M"; */
+"P6f-fi-M6M.normalTitle" = "Continue";
+
+/* Class = "UITextField"; placeholder = "Your gender"; ObjectID = "QEM-Vt-aZ1"; */
+"QEM-Vt-aZ1.placeholder" = "Your gender";
+
+/* Class = "UILabel"; text = "b23me.co/im***********"; ObjectID = "Qje-TC-8k0"; */
+"Qje-TC-8k0.text" = "b23me.co/im***********";
+
+/* Class = "UIButton"; normalTitle = "SwaplNFC"; ObjectID = "Qny-Zh-OJW"; */
+"Qny-Zh-OJW.normalTitle" = "SwaplNFC";
+
+/* Class = "UITextField"; placeholder = "Facebook link"; ObjectID = "RD9-pp-wQc"; */
+"RD9-pp-wQc.placeholder" = "Facebook link";
+
+/* Class = "UITextField"; placeholder = "Your date of birth"; ObjectID = "RIf-Jk-3LR"; */
+"RIf-Jk-3LR.placeholder" = "Your date of birth";
+
+/* Class = "UIButton"; normalTitle = "Terminé"; ObjectID = "Rrl-4H-Qbt"; */
+"Rrl-4H-Qbt.normalTitle" = "Terminé";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "UiI-S8-DbI"; */
+"UiI-S8-DbI.normalTitle" = "Send";
+
+/* Class = "UITextField"; placeholder = "Linkedin profile link"; ObjectID = "VHS-KE-jIB"; */
+"VHS-KE-jIB.placeholder" = "Linkedin profile link";
+
+/* Class = "UILabel"; text = "How to Scan?"; ObjectID = "VNw-1N-RwH"; */
+"VNw-1N-RwH.text" = "How to Scan?";
+
+/* Class = "UITextField"; placeholder = "Confirm password"; ObjectID = "VoI-Fk-Hja"; */
+"VoI-Fk-Hja.placeholder" = "Confirm password";
+
+/* Class = "UIButton"; normalTitle = "Add user"; ObjectID = "Xqn-rw-ZlP"; */
+"Xqn-rw-ZlP.normalTitle" = "Add user";
+
+/* Class = "UIButton"; normalTitle = "Save Profile"; ObjectID = "YSo-Fn-ZL1"; */
+"YSo-Fn-ZL1.normalTitle" = "Save Profile";
+
+/* Class = "UITextField"; placeholder = "Search people"; ObjectID = "Z3p-hf-Ase"; */
+"Z3p-hf-Ase.placeholder" = "Search people";
+
+/* Class = "UITextField"; placeholder = "Bio"; ObjectID = "a5o-VM-oV1"; */
+"a5o-VM-oV1.placeholder" = "Bio";
+
+/* Class = "UIButton"; normalTitle = "     SwaplNFC     "; ObjectID = "aKN-XP-tGx"; */
+"aKN-XP-tGx.normalTitle" = "     SwaplNFC     ";
+
+/* Class = "UIButton"; normalTitle = "Terminé"; ObjectID = "ehF-dU-S1X"; */
+"ehF-dU-S1X.normalTitle" = "Terminé";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "f9Z-tR-e59"; */
+"f9Z-tR-e59.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Allow  others to view file online\nTap here to add link to any bio"; ObjectID = "g4C-bM-5XF"; */
+"g4C-bM-5XF.text" = "Allow  others to view file online\nTap here to add link to any bio";
+
+/* Class = "UITextField"; placeholder = "YouTube channel link"; ObjectID = "gF4-vz-eeK"; */
+"gF4-vz-eeK.placeholder" = "YouTube channel link";
+
+/* Class = "UILabel"; text = "born2e.co/i****"; ObjectID = "gKy-a8-6or"; */
+"gKy-a8-6or.text" = "born2e.co/i****";
+
+/* Class = "UILabel"; text = "Sign in to your account"; ObjectID = "geg-HT-lQq"; */
+"geg-HT-lQq.text" = "Sign in to your account";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "hBz-4P-VXK"; */
+"hBz-4P-VXK.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = "     SwaplNFC     "; ObjectID = "j6W-8M-01x"; */
+"j6W-8M-01x.normalTitle" = "     SwaplNFC     ";
+
+/* Class = "UILabel"; text = "Your account opens to your personal profile"; ObjectID = "jEp-oO-FFz"; */
+"jEp-oO-FFz.text" = "Your account opens to your personal profile";
+
+/* Class = "UIButton"; normalTitle = "Forgot password?"; ObjectID = "joY-8a-XcF"; */
+"joY-8a-XcF.normalTitle" = "Forgot password?";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "l43-zj-0Ni"; */
+"l43-zj-0Ni.normalTitle" = "Save";
+
+/* Class = "UITextField"; placeholder = "Twitter username"; ObjectID = "lAx-2u-TDm"; */
+"lAx-2u-TDm.placeholder" = "Twitter username";
+
+/* Class = "UITextField"; placeholder = "Pinterest username"; ObjectID = "le4-Pr-6oc"; */
+"le4-Pr-6oc.placeholder" = "Pinterest username";
+
+/* Class = "UILabel"; text = "Your tag will be activated with the profile "; ObjectID = "nGe-iy-x55"; */
+"nGe-iy-x55.text" = "Your tag will be activated with the profile ";
+
+/* Class = "UIButton"; normalTitle = "Off"; ObjectID = "ocG-E3-Le2"; */
+"ocG-E3-Le2.normalTitle" = "Off";
+
+/* Class = "UITextField"; placeholder = "Snapchat username"; ObjectID = "peO-0n-RF2"; */
+"peO-0n-RF2.placeholder" = "Snapchat username";
+
+/* Class = "UISegmentedControl"; pqU-da-0Ca.segmentTitles[0] = "On"; ObjectID = "pqU-da-0Ca"; */
+"pqU-da-0Ca.segmentTitles[0]" = "On";
+
+/* Class = "UISegmentedControl"; pqU-da-0Ca.segmentTitles[1] = "Off"; ObjectID = "pqU-da-0Ca"; */
+"pqU-da-0Ca.segmentTitles[1]" = "Off";
+
+/* Class = "UITextField"; placeholder = "Gender"; ObjectID = "q9v-TX-0ck"; */
+"q9v-TX-0ck.placeholder" = "Gender";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "qxY-bF-iIy"; */
+"qxY-bF-iIy.placeholder" = "Email";
+
+/* Class = "UITextField"; placeholder = "Instagram username"; ObjectID = "sJd-ew-lSL"; */
+"sJd-ew-lSL.placeholder" = "Instagram username";
+
+/* Class = "UIButton"; normalTitle = "Create New Account"; ObjectID = "sZx-7Q-nbm"; */
+"sZx-7Q-nbm.normalTitle" = "Create New Account";
+
+/* Class = "UIButton"; normalTitle = "SwaplNFC"; ObjectID = "swe-OX-Tip"; */
+"swe-OX-Tip.normalTitle" = "SwaplNFC";
+
+/* Class = "UIButton"; normalTitle = "Add user"; ObjectID = "uHF-pe-rwM"; */
+"uHF-pe-rwM.normalTitle" = "Add user";
+
+/* Class = "UITextField"; placeholder = "Tiktok username"; ObjectID = "ugN-0s-cIl"; */
+"ugN-0s-cIl.placeholder" = "Tiktok username";
+
+/* Class = "UILabel"; text = "Contact Informations"; ObjectID = "vEZ-Hy-J3g"; */
+"vEZ-Hy-J3g.text" = "Contact Informations";
+
+/* Class = "UILabel"; text = "Contact successfully added to your contact list"; ObjectID = "wGP-gG-eAp"; */
+"wGP-gG-eAp.text" = "Contact successfully added to your contact list";
+
+/* Class = "UIButton"; normalTitle = "Tap here to activate"; ObjectID = "y6T-cW-3rv"; */
+"y6T-cW-3rv.normalTitle" = "Tap here to activate";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "zJd-GT-pAf"; */
+"zJd-GT-pAf.normalTitle" = "Continue";
